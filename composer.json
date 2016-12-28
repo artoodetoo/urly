@@ -1,0 +1,19 @@
+{
+    "name": "artoodetoo/urly",
+    "description": "Minimum viable URL shortener class",
+    "keywords": ["URL", "shortener"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "artoodetoo"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "R2\\Utility\\": "src/"
+        }
+    }
+}
